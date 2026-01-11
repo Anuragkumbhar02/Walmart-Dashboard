@@ -38,4 +38,4 @@ The dashboard helps identify profit-draining products, regional performance gaps
 
 6. Screenshot
 
-[Dashboard Preview](https://github.com/Anuragkumbhar02/Walmart-Dashboard/blob/main/image.png)
+![Dashboard Preview].(https://github.com/Anuragkumbhar02/Walmart-Dashboard/blob/main/image.png).
