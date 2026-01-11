@@ -1,23 +1,23 @@
 1. Project Title 
 
-Walmart Sales Dashboard – Data Analysis & Visualization
+  Walmart Sales Dashboard – Data Analysis & Visualization
 
 2. Short Description / Purpose
-This project focuses on analyzing Walmart sales data to uncover key business insights related to sales performance, customer behavior, and product trends. The dashboard helps stakeholders make data-driven decisions by visualizing important KPIs such as total sales, profit, quantity sold, and category-wise performance.
+  This project focuses on analyzing Walmart sales data to uncover key business insights related to sales performance, customer behavior, and product trends. The dashboard helps stakeholders make data-driven decisions by visualizing important KPIs such as total sales, profit, quantity sold, and category-wise performance.
 
 3. Tech Stack
 
-Power BI – Dashboard creation & data visualization
+  Power BI – Dashboard creation & data visualization
 
-SQL – Data querying and transformation
+  SQL – Data querying and transformation
 
-Excel / CSV – Data storage and preprocessing
+  Excel / CSV – Data storage and preprocessing
 
-Python (Optional) – Exploratory Data Analysis (EDA)
+  Python (Optional) – Exploratory Data Analysis (EDA)
 
 4. Data Source
 
-Walmart Sales Dataset (public dataset used for learning and analysis)
+  Walmart Sales Dataset (public dataset used for learning and analysis)
 
 Contains information on orders, customers, products, sales, profit, quantity, and regions.
 
