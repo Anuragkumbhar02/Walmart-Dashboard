@@ -38,4 +38,4 @@ The dashboard helps identify profit-draining products, regional performance gaps
 
 6. Screenshot
 
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/Anuragkumbhar02/Walmart-Dashboard/blob/main/image.png)
