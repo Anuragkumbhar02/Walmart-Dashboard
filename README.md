@@ -3,7 +3,8 @@
   Walmart Sales Dashboard – Data Analysis & Visualization
 
 2. Short Description / Purpose
-  This project focuses on analyzing Walmart sales data to uncover key business insights related to sales performance, customer behavior, and product trends. The dashboard helps stakeholders make data-driven decisions by visualizing important KPIs such as total sales, profit, quantity sold, and category-wise performance.
+
+This project focuses on analyzing Walmart sales data to uncover key business insights related to sales performance, customer behavior, and product trends. The dashboard helps stakeholders make data-driven decisions by visualizing important KPIs such as total sales, profit, quantity sold, and category-wise performance.
 
 3. Tech Stack
 
