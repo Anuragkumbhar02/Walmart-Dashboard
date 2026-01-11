@@ -36,3 +36,5 @@ The dashboard uses KPI cards, category-wise charts, regional analysis, and time-
 
 Business Impact & Insights:
 The dashboard helps identify profit-draining products, regional performance gaps, and sales trends, enabling faster and more effective data-driven business decisions.
+
+https://github.com/Anuragkumbhar02/Walmart-Dashboard/blob/main/image.png
